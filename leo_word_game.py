@@ -5,6 +5,7 @@ class WordGame():
         self.correct_guess = correct_guess
         self.incorrect_guess = incorrect_guess
 
+#NEED TO CLEAN CODE UP
 
     ####    
     def getSecret(self):
@@ -53,6 +54,8 @@ class WordGame():
 
 
 ##################################
+
+#CLEAN CODE UP
 ##################################
         
 from tkinter import *
